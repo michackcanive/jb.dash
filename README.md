@@ -6,6 +6,8 @@ Dashboard 😍
 ![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/jddash.png)
 Usuários
 ![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/usersList.png)
+Create User
+![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/createUser.png)
 Login
 ![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/login_jbdash.png)
 
