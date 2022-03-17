@@ -1,3 +1,12 @@
+
+Isto é um [Next.js](https://nextjs.org/) projeto inicializado com [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started jb.dash
+Dashboard 😍
+![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/jddash.png)
+Login
+![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/login_jbdash.png)
+
 Comando para iniciar um projecto Next
 
 :: yarn create next-app nome-do-app
