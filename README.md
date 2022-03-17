@@ -4,6 +4,8 @@ Isto é um [Next.js](https://nextjs.org/) projeto inicializado com [`create-next
 ## Getting Started jb.dash
 Dashboard 😍
 ![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/jddash.png)
+Usuários
+![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/usersList.png)
 Login
 ![repo-settings-image](https://github.com/michackcanive/jb.dash/blob/main/public/images/login_jbdash.png)
 
