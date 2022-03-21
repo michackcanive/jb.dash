@@ -4,7 +4,7 @@ export function Logo(){
     return(
         <Text
         fontWeight="bold"
-        fontSize="3xl"
+        fontSize={["2xl","3xl"]}
         letterSpacing="tight"
         w="64">
         Jb.dash
